@@ -1,4 +1,5 @@
 # 📊 Motorola Sales Dashboard (Power BI)
+
 ![alt text](https://github.com/amitverma2699/Mobile-Sales-Data-Dashboard-/blob/main/Images/Screenshot%202025-08-26%20115506.png)
 
 ## 🚀 Project Overview
@@ -34,6 +35,11 @@ Motorola wanted to understand which cities, models, and payment modes drive the 
 ## 🖥️ Tools Used
 - Power BI
 - Excel / CSV for data preprocessing
+
+## 💡 How to View
+- Download the `.pbix` file from this repo  
+- Open in Power BI Desktop  
+- Interact with filters for custom views
 
 ## 🧑‍💻 Author
 Amit Verma – Aspiring Data Scientist | [LinkedIn Profile](https://www.linkedin.com/in/amit-verma-57a7a71b7/)
