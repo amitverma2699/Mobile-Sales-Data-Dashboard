@@ -35,4 +35,6 @@ Motorola wanted to understand which cities, models, and payment modes drive the 
 - Power BI
 - Excel / CSV for data preprocessing
 
+## 🧑‍💻 Author
+Amit Verma – Aspiring Data Scientist | [LinkedIn Profile](https://www.linkedin.com/in/amit-verma-57a7a71b7/)
 ---
